@@ -52,13 +52,8 @@
 ### Github Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dzelle-tan&theme=radical&hide_border=true)
 
-### Github Trophies:
-![](https://github-trophies.vercel.app/?username=dzelle-tan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dzelletan) 
 
 ### Support:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dzelletan) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dzelletan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dzelletan) 
-
-
