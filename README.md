@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Dzelle</h1>
-<h3 align="left">A Computer Science Student from the Philippines</h3> <br/>
+<h3 align="left">A Computer Science Student from the Philippines</h3>
+<br/>
 
 - 🔭 I’m currently working on [PLM Web Student Portal, Kiddos Compiler, Merita Mobile App, PLM Mobile App, HUGS Website UI/UX](https://github.com/dzelle-tan/new-student-portal)
 
@@ -10,6 +11,8 @@
 - 📫 How to reach me **dzellefaith@gmail.com**
 
 - ⚡ Fun fact **I love making arts and crafts❤️**
+
+<br/>
 
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
