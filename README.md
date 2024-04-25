@@ -2,7 +2,7 @@
 <h3 align="left">A Computer Science Student from the Philippines</h3>
 <br/>
 
-- 🔭 I’m currently working on [PLM Web Student Portal, Kiddos Compiler, Merita Mobile App, PLM Mobile App, HUGS Website UI/UX](https://github.com/dzelle-tan/new-student-portal)
+- 🔭 I’m currently working on [PLM Web Student Portal](https://github.com/dzelle-tan/new-student-portal), [Kiddos Compiler](https://github.com/dzelle-tan/kiddos), [Merita Mobile App](), [PLM Mobile App](), [HUGS Website UI/UX]()
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design, 3D Modelling**
 
