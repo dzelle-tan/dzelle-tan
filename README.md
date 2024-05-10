@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design, 3D Modelling**
 
-- 🤝 I’m looking for help with **Algorithm Enhancement Research**
-
 - 📫 How to reach me **dzellefaith@gmail.com**
 
 - ⚡ Fun fact **I love making arts and crafts❤️**
