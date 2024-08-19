@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dzelle</h1>
-<h3 align="left">A Computer Science Student from the Philippines</h3>
 <br/>
 
-- 🔭 I’m currently working on **PLM Web Student Portal**, **Kiddos Compiler**, **Merita Mobile App**, **PLM Mobile App**
+- 🔭 I’m currently working on **DOON Mobile App**
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design, 3D Modelling**
 
