@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Dzelle</h1>
 <br/>
 
-- 🔭 I’m currently working on **Computer Vision Algorithm Enhancement (Thesis), DOON Mobile App**
+- 🔭 I’m currently working on **DOON Mobile App, Computer Vision Algorithm Enhancement (Thesis)**
 
 - 🌱 I’m currently learning **Mobile Development, Web Development, UI/UX Design, 3D Modelling**
 
