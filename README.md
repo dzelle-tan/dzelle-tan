@@ -45,6 +45,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-8A2BE2)
 
 ### Github Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dzelle-tan&theme=radical&hide_border=true)
